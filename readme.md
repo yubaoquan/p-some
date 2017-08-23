@@ -31,11 +31,11 @@ pSome([
 
 pSome(promises, opt)
 
-####promises
+#### promises
 
 Type: `Array`<`Promise`>
 
-####opt
+#### opt
 Type: `Object` or `Number`
 
 If is Number, indicates count
