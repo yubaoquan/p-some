@@ -5,6 +5,10 @@ p-some
 
 Inspired by [sindresorhus/p-some](https://github.com/sindresorhus/p-some)
 
+Install:
+```
+$ npm i ybq@p-some
+```
 Usage:
 ===
 
@@ -32,7 +36,9 @@ pSome(promises, opt)
 Type: `Array`<`Promise`>
 
 ####opt
-Type: `Object`
+Type: `Object` or `Number`
+
+If is Number, indicates count
 
 ##### count
 

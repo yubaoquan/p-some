@@ -1,0 +1,22 @@
+{
+  "name": "@ybq/p-some",
+  "version": "1.0.0",
+  "description": "Wait for a specified number of promises to be fulfilled.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yubaoquan/p-some.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "yubaoquan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yubaoquan/p-some/issues"
+  },
+  "homepage": "https://github.com/yubaoquan/p-some#readme"
+}
