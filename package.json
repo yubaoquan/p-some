@@ -1,6 +1,6 @@
 {
   "name": "@ybq/p-some",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wait for a specified number of promises to be fulfilled.",
   "main": "index.js",
   "scripts": {
