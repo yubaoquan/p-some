@@ -1,22 +1,21 @@
-p-some
-===
+# p-some
 
 > Wait for a specified number of promises to be fulfilled
 
 Inspired by [sindresorhus/p-some](https://github.com/sindresorhus/p-some)
 
-Install:
+## Install:
+
 ```
-$ npm i ybq@p-some
+$ npm i @ybq/p-some
 ```
-Usage:
-===
+## Usage:
 
 Checks 4 websites and logs the 2 fastest.
 
 ```
 const got = require('got');
-const pSome = require('./index');
+const pSome = require('@ybq/index');
 
 pSome([
     got.head('github.com').then(() => 'github'),
